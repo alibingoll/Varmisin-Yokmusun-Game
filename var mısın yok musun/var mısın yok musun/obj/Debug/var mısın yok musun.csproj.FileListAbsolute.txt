@@ -1,0 +1,27 @@
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\bin\Debug\var mısın yok musun.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\bin\Debug\var mısın yok musun.exe
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\bin\Debug\var mısın yok musun.pdb
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form1.resources
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.exe
+c:\users\ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.pdb
+C:\Users\Ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form2.resources
+C:\Users\Ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form3.resources
+C:\Users\Ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form4.resources
+C:\Users\Ali\documents\visual studio 2015\Projects\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form5.resources
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\bin\Debug\var mısın yok musun.exe.config
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\bin\Debug\var mısın yok musun.exe
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\bin\Debug\var mısın yok musun.pdb
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form1.resources
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form2.resources
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form3.resources
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form4.resources
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Form5.resources
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var_mısın_yok_musun.Properties.Resources.resources
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.exe
+C:\Users\pc\Desktop\Varmısın Yokmusun\var mısın yok musun\var mısın yok musun\obj\Debug\var mısın yok musun.pdb
